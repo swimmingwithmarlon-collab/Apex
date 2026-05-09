@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+apex_tracker_data_v5.json
+apex_ml_model.json
+apex_ml_snapshots.json
